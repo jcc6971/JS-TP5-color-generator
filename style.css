@@ -1,0 +1,19 @@
+body {
+  height: 1vh;
+  transition: ease 0.8s;
+}
+#affichage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: black;
+  color: whitesmoke;
+  text-align: center;
+  height: 50px;
+  width: 200px;
+  border: 2px black solid;
+  border-radius: 20px;
+  margin: 250px auto;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1.5rem;
+}
